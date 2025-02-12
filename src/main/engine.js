@@ -21,6 +21,8 @@ function checkVideoSupport() {
     }
 }
 
+document.getElementById('current-year').textContent = new Date().getFullYear();
+
 // Smooth scroll para links internos
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
