@@ -33,7 +33,7 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-// Função para abrir o modal
+// Função para abrir o modal - em desenvolvimento*
 function openMapModal() {
     const modal = document.getElementById('mapModal');
     if (modal) {
@@ -73,7 +73,6 @@ if (closeBtn) {
     console.error('Botão de fechar modal não encontrado.');
 }
 
-// Função para inicializar o mapa
 function initMap() {
     if (navigator.geolocation) {
         navigator.geolocation.getCurrentPosition(function (position) {
