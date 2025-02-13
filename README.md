@@ -31,11 +31,7 @@ Este repositório foi criado para compartilhar a criação de exibição do Webs
 
 No terminal, clone o projeto:
 ...
-git clone https...
+git clone https://github.com/Lasp0800/WebSite---Cliente-Rockers-Burguers.git
 ...
-## Casos de Uso
 
-
-## Desenvolvedores/Contribuintes :octocat:
-
-Liste o time responsável pelo desenvolvimento do projeto.
+<h2> Projeto feito em 4 semanas. 🤗</h2>
