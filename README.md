@@ -7,8 +7,6 @@ Este repositório foi criado para compartilhar a criação de exibição do Webs
 
 🔹[Deploy da Aplicação](#deploy-da-aplicação-dash)
 
-🔹[Pré-requisitos](#pré-requisitos)
-
 🔹[Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
 
 ## Descrição do projeto
@@ -19,19 +17,15 @@ Este repositório foi criado para compartilhar a criação de exibição do Webs
 
 ## Funcionalidades
 
-✔️ Funcionalidade 1
+✔️ HTML5 Responsivo
 
-✔️ Funcionalidade 2
+✔️ Botões de redirecionamento 
 
-✔️ Funcionalidade 3
+✔️ Background dinâmico 
 
-✔️ Funcionalidade 4
+🏗 Mapa de localização em tempo real
 
-## Pré-requisitos
-
-⚠️: [Node](https://nodejs.org/en/download/)
-
-...
+🏗 Cadastro de clientes fidelidade
 
 ## Como rodar a aplicação ▶️
 
