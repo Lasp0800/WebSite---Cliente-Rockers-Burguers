@@ -1,6 +1,9 @@
 # WebSite - Cliente-Rockers-Burguers 🍔
 Este repositório foi criado para compartilhar a criação de exibição do Website Criado para meu cliente Rockers Burguer.
 
+![image](https://github.com/user-attachments/assets/8c393054-c861-4262-ade8-e1d6ae2be8cd)
+
+
 🔹[Descrição do projeto](#descrição-do-projeto)
 
 🔹[Funcionalidades](#funcionalidades)
